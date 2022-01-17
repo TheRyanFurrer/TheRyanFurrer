@@ -1,12 +1,14 @@
 <img height="100%" src="https://res.cloudinary.com/ryan-furrer/image/upload/v1641317729/Portfolio%20Site/theryanfurrer-share-card_mluakx.png" />
 
-# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br />I'm a Front-End Web Developer looking for my first job in the field.
+# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br /><br/>I'm a Front-End Web Developer looking for my first job in the field.
 
 👨🏻‍💻 I'm a community-taught developer living in **New York, USA**.
+
 📖 Currently learning **JavaScript** and **React**.
 
 🎻 I was a professional musician and private music teacher before pursuing a career in web development.
 
+Languages I currently know are:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
