@@ -1,6 +1,11 @@
 <img height="100%" src="https://res.cloudinary.com/ryan-furrer/image/upload/v1641317729/Portfolio%20Site/theryanfurrer-share-card_mluakx.png" />
 
-# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). I'm a Front-End Web Developer looking for my first job in the field.
+# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br />I'm a Front-End Web Developer looking for my first job in the field.
+
+👨🏻‍💻 I'm a community-taught developer living in **New York, USA**.
+📖 Currently learning **JavaScript** and **React**.
+
+🎻 I was a professional musician and private music teacher before pursuing a career in web development.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,7 +16,7 @@
 
 Web Development brings me such joy, purpose, and fulfillment I want to make it my career. My goal to build projects that can help people achieve their goals and give them the web prescence they've been dreaming of.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRyanFurrer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRyanFurrer&show_icons=true&theme=graywhite&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />
 
 [![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRyanFurrer)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theryanfurrer/)
