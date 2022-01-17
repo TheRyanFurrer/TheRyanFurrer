@@ -1,6 +1,6 @@
 <img width="100%" src="https://res.cloudinary.com/ryan-furrer/image/upload/v1641317729/Portfolio%20Site/theryanfurrer-share-card_mluakx.png" />
 
-# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br /><br/>I'm a Front-End Web Developer looking for my first job in the field.
+# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br />I'm a Front-End Web Developer looking for my first job in the field.
 
 👨🏻‍💻 I'm a community-taught developer living in **New York, USA**.
 
@@ -20,8 +20,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
 
 Web Development brings me such joy, purpose, and fulfillment I want to make it my career. My goal to build projects that can help people achieve their goals and give them the web prescence they've been dreaming of.
 
