@@ -10,4 +10,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRyanFurrer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheRyanFurrer?style=social)
-[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRyanFurrer)
+[![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRyanFurrer)
+![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
