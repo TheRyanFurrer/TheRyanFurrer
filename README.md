@@ -9,4 +9,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRyanFurrer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white){:target="blank"}
+[![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRyanFurrer)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theryanfurrer/)
+
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/theryanfurrer)
