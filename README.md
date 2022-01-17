@@ -6,9 +6,11 @@
 
 📖 Currently learning **JavaScript** and **React**.
 
+💻 Currently working on building more complex projects and building up my portfolio.
+
 🎻 I was a professional musician and private music teacher before pursuing a career in web development.
 
-Skills and technologies I currently work with:
+## Skills and technologies I currently work with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,11 +21,15 @@ Skills and technologies I currently work with:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+---
+
 Web Development brings me such joy, purpose, and fulfillment I want to make it my career. My goal to build projects that can help people achieve their goals and give them the web prescence they've been dreaming of.
+
+## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRyanFurrer&show_icons=true&theme=graywhite&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />
 
-### See more or connect with me
+## See more or connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://theryanfurrer.dev)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codingcatchup.com)
