@@ -1,6 +1,7 @@
 <img width="100%" src="https://res.cloudinary.com/ryan-furrer/image/upload/v1641317729/Portfolio%20Site/theryanfurrer-share-card_mluakx.png" />
 
-# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev). <br />I'm a Front-End Web Developer looking for my first job in the field.
+# 👋🏻 Hi, I'm [Ryan Furrer](https://theryanfurrer.dev).
+## I'm a Front-End Web Developer looking for my first job in the field.
 
 👨🏻‍💻 I'm a community-taught developer living in **New York, USA**.
 
