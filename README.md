@@ -30,7 +30,7 @@ Web Development brings me such joy, purpose, and fulfillment I want to make it m
 ## See more or connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://theryanfurrer.dev)
-[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codingcatchup.com)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://theryanfurrer.blog)
 [![Twitter](https://img.shields.io/badge/TheRyanFurrer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheRyanFurrer)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theryanfurrer/)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/theryanfurrer)
